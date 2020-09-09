@@ -2,7 +2,6 @@ import pandas as pd
 import csv
 from bs4 import BeautifulSoup
 import json
-from googlesearch import search
 import urllib.request as urllib
 
 #read in the dataset
